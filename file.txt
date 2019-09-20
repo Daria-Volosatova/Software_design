@@ -1,0 +1,4 @@
+Tade:{
+	type=FX_SPOT
+	price=400
+}
